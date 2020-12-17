@@ -1,2 +1,2 @@
 # arduinodude
-use this on arduino IDLE---python
+use this on arduino IDLE---c++
